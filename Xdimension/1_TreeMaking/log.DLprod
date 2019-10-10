@@ -1,0 +1,33 @@
+
+Processing Tracks_TreeMakerMC.C...
+Successfully opened file /pnfs/uboone/scratch/users/yatesla/v08_00_00_13g/prod_ACPTmuon_uboone_overlay_DLdown_50percent/full/24426702_998/7008_790_20191008T004157_detsim_overlay_DLdown50_mix_r1a_r1b_r1c.root
+%MSG-d ProductID: 
+Product created with id: [3140600676] from canonical product name: "anab::T0s_acpttrigtagger__Swizzler."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [2954393701] from canonical product name: "anab::T0s_acpttrigtagger__SimInfoMixer."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [268735230] from canonical product name: "anab::T0s_acpttrigtagger__DetsimOverlayDLdown50."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [2536538789] from canonical product name: "anab::T0s_acpttrigtagger__DataOverlay."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [659267704] from canonical product name: "anab::T0s_acpttrigtagger__OverlayStage1a."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [167688843] from canonical product name: "anab::T0s_acpttrigtagger__OverlayRecoStage1b."
+%MSG
+%MSG-d ProductID: 
+Product created with id: [283478986] from canonical product name: "anab::T0s_acpttrigtagger__OverlayRecoStage1c."
+%MSG
+terminate called after throwing an instance of 'cet::coded_exception<art::errors::ErrorCodes, &art::ExceptionDetail::translate[abi:cxx11]>'
+  what():  ---- ProductNotFound BEGIN
+  Failed to find product for 
+    type = 'std::vector<anab::T0>'
+    module = 'acpttrigtagger'
+    productInstance = ''
+    process=''
+---- ProductNotFound END
+
